@@ -1,0 +1,1555 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="shortcut icon" href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<title>Student Rentals | McMaster Off-Campus Resource Centre</title>
+	
+<!-- Javascript code section -->
+
+<!-- stylesheet section -->
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster_accessibility.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster_menu.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster_sf_menu.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster_format.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/lytebox.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster_mobile.css" rel="stylesheet" type="text/css" media="handheld" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster_print.css" rel="stylesheet" type="text/css" media="print" />
+<link href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/mcmaster_format_print.css" rel="stylesheet" type="text/css" media="print" />
+
+<!--<link rel="profile" href="http://gmpg.org/xfn/11" />-->
+<!--<link rel="stylesheet" type="text/css" media="all" href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/style.css" />-->
+<link rel="pingback" href="https://macoffcampus.mcmaster.ca/classifieds/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCABtJdTtC9dVpE6xjMmXd58xh5-2N2L5o&sensor=false&libraries=geometry" type="text/javascript"></script>
+
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+</style>
+<script type="text/javascript">
+<!--
+function onload_function() {
+	return;
+}
+//-->
+</script>
+<script type="text/javascript" src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/geoxml3.js"></script>
+<!-- InstanceEndEditable -->
+<link rel="alternate" type="application/rss+xml" title="McMaster Off-Campus Resource Centre &raquo; Feed" href="https://macoffcampus.mcmaster.ca/classifieds/feed/" />
+<link rel="alternate" type="application/rss+xml" title="McMaster Off-Campus Resource Centre &raquo; Comments Feed" href="https://macoffcampus.mcmaster.ca/classifieds/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="McMaster Off-Campus Resource Centre &raquo; Student Rentals Category Feed" href="https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/feed/" />
+<link rel='stylesheet' id='jquery.jscrollpane.css-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/ocrc/static/css/jquery.jscrollpane.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<link rel='stylesheet' id='style.css-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/style.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fileuploader.css-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/fileuploader.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-default-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/jquery-ui.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-new-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/jquery-ui-new.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='imgareaselect-default.css-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/imgareaselect-default.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mcmaster_content_styles.css-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/css/common/mcmaster_content_styles.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sharedaddy-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css?ver=0.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css?ver=2.0.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MAPPARAMS = {"themeurl":"https:\/\/macoffcampus.mcmaster.ca\/classifieds\/wp-content\/themes\/ocrc"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/markerclusterer_packed.js?ver=2.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/oms.min.js?ver=2.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/fileuploader.js?ver=2.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/jquery.imgareaselect.pack.js?ver=2.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/jquery.bbq.min.js?ver=2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var OCRC = {"ajaxurl":"https:\/\/macoffcampus.mcmaster.ca\/classifieds\/wp-admin\/admin-ajax.php","nonce":"65965b1c95","logged_in":"","favourites_key":"wordpress_ocrc_favourites","themeurl":"https:\/\/macoffcampus.mcmaster.ca\/classifieds\/wp-content\/themes\/ocrc","stamptoday":"1405440000","category_id":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/site.js?ver=2.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/ocrc-map.js?ver=2.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/jquery.validate.min.js?ver=2.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/jquery.cookie.js?ver=2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://macoffcampus.mcmaster.ca/classifieds/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://macoffcampus.mcmaster.ca/classifieds/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.1" />
+<!--<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>-->
+	<script type="text/javascript">
+		var $j = jQuery.noConflict();
+		$j(function(){
+			var center = new google.maps.LatLng(0.0, 0.0);
+			var myOptions = {
+		      zoom: 16,
+		      center: center,
+		      mapTypeId: google.maps.MapTypeId.ROADMAP
+		    };
+		    var map = new google.maps.Map(document.getElementById("map"), myOptions);
+		    var image = "https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/geolocation/img/wp_pin.png";
+		    var shadow = new google.maps.MarkerImage("https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/geolocation/img/wp_pin_shadow.png",
+		    	new google.maps.Size(39, 23),
+				new google.maps.Point(0, 0),
+				new google.maps.Point(12, 25));
+		    var marker = new google.maps.Marker({
+					position: center, 
+					map: map, 
+					title:"Post Location"});
+			
+			var allowDisappear = true;
+			var cancelDisappear = false;
+		    
+			$j(".geolocation-link").mouseover(function(){
+				$j("#map").stop(true, true);
+				var lat = $j(this).attr("name").split(",")[0];
+				var lng = $j(this).attr("name").split(",")[1];
+				var latlng = new google.maps.LatLng(lat, lng);
+				placeMarker(latlng);
+				
+				var offset = $j(this).offset();
+				$j("#map").fadeTo(250, 1);
+				$j("#map").css("z-index", "99");
+				$j("#map").css("visibility", "visible");
+				$j("#map").css("top", offset.top + 20);
+				$j("#map").css("left", offset.left);
+				
+				allowDisappear = false;
+				$j("#map").css("visibility", "visible");
+			});
+			
+			$j(".geolocation-link").mouseover(function(){
+			});
+			
+			$j(".geolocation-link").mouseout(function(){
+				allowDisappear = true;
+				cancelDisappear = false;
+				setTimeout(function() {
+					if((allowDisappear) && (!cancelDisappear))
+					{
+						$j("#map").fadeTo(500, 0, function() {
+							$j("#map").css("z-index", "-1");
+							allowDisappear = true;
+							cancelDisappear = false;
+						});
+					}
+			    },800);
+			});
+			
+			$j("#map").mouseover(function(){
+				allowDisappear = false;
+				cancelDisappear = true;
+				$j("#map").css("visibility", "visible");
+			});
+			
+			$j("#map").mouseout(function(){
+				allowDisappear = true;
+				cancelDisappear = false;
+				$j(".geolocation-link").mouseout();
+			});
+			
+			function placeMarker(location) {
+				map.setZoom(16);
+				marker.setPosition(location);
+				map.setCenter(location);
+			}
+			
+			google.maps.event.addListener(map, "click", function() {
+				window.location = "http://maps.google.com/maps?q=" + map.center.lat() + ",+" + map.center.lng();
+			});
+		});
+	</script><link type="text/css" rel="stylesheet" href="https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/geolocation/style.css" /><style type="text/css"><!-- img#wpstats{display:none;} --></style><script type="text/javascript" src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/superfish.js"></script>
+<script type="text/javascript" src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/js/jquery.bgiframe.min.js"></script>
+<!-- <script type="text/javascript" src="http://fhs.mcmaster.ca/lib/javascript/wai_aria_skiptarget.js"></script> -->
+</head>
+
+<body class="archive category category-student-rentals category-3 two-column left-sidebar">
+<script type="text/javascript">
+//<![CDATA[
+function jumpMenu() {
+	var ql = document.getElementById("quicklinks");
+	var selQL = ql.options[ql.selectedIndex].value;
+	window.location = selQL
+	}
+//]]>
+  </script>
+	
+<div id="container"> 
+    <!-- HEADER BEGINS -->
+    <div id="top_container">
+        <h1 id="logo" onclick="window.location.href = 'http://www.mcmaster.ca/home.cfm';"><a href="http://www.mcmaster.ca/home.cfm">McMaster University</a><span></span></h1>
+        <div id="logo_print"><img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/logo_mcmaster.gif" width="144" height="97" border="0" alt="McMaster University" /></div>
+        <div id="top_tools">
+            <div class="left_tools"><!-- #BeginLibraryItem "/Library/common/mcmaster_header_links.lbi" -->
+            <div id="mugsi">
+                <!--[if lte IE 6]><table><tr><td align="left"><![endif]-->
+                <a href="https://adweb.cis.mcmaster.ca/cis/ahtml/login.htm" target="_blank">MUGSI</a>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </div>
+            <div id="staff_dir">
+                <!--[if lte IE 6]><table><tr><td align="left"><![endif]-->
+                <a href="http://telecom.mcmaster.ca/directory.cfm" target="_blank">Faculty &amp; Staff Directory</a>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </div>
+            <!-- #EndLibraryItem --></div>
+            
+            <div class="right_tools"><!-- #BeginLibraryItem "/Library/common/mcmaster_quick_links.lbi" -->
+            <div id="quick_links">
+                <!--[if lte IE 6]><table><tr><td><![endif]-->
+                <form name="form1" action="#" method="post" onsubmit="return false;" style="display:inline;">
+                    <label for="quicklinks">Quick Links</label>
+                    <select name="quick_links" id="quicklinks">
+                        <option value="#" selected="selected">Select</option>
+                        <option value="http://www.mcmaster.ca/opr/html/a_z/main/a_z_index.html">A to Z Campus Index</option>
+                        <option value="http://www.mcmaster.ca/ua/alumni/">Alumni Association</option>
+                        <option value="http://www-athrec.mcmaster.ca/" >Athletics &amp; Recreation</option>
+                        <option value="http://www.bookstore.mcmaster.ca/">Bookstore</option>
+                        <option value="http://www.mcmaster.ca/health/">Campus Health Centre</option>
+                        <option value="http://www.mcmaster.ca/services/career.cfm">Career Services</option>
+                        <option value="http://www.mcmaster.ca/services/clubs.cfm">Clubs</option>
+                        <option value="http://www.mcmaster.ca/welcome/findus.cfm" >Directions &amp; Map</option>
+                        <option value="http://www.mcmaster.ca/services/career.cfm" >Employers</option>
+                        <option value="http://telecom.mcmaster.ca/directory.cfm" >Faculty &amp; staff Directory</option>
+                        <option value="http://sfas.mcmaster.ca/">Financial Aid</option>
+                        <option value="http://www.mcmaster.ca/search1/">Find People @ McMaster</option>
+                        <option value="http://www.mcmaster.ca/ua/alumni/giving/" >Giving to McMaster</option>
+                        <option value="http://www.mcmaster.ca/services/houshosp.cfm">Housing</option>
+                        <option value="http://www.mcmaster.ca/student/international.cfm" >International Students</option>
+                        <option value="http://library.mcmaster.ca/">Libraries</option>
+                        <option value="http://www.mcmaster.ca/opr/html/opr/media/main/media.html" >Media</option>
+                        <option value="https://adweb.cis.mcmaster.ca/cis/ahtml/login.htm">MUGSI Login</option>
+                        <option value="http://www.mcmaster.ca/policy/">Policies</option>
+                        <option value="http://www.mcmaster.ca/security/">Security Services</option>
+                        <option value="http://www.mcmaster.ca/bms/student/index.htm">Student Accounts</option>
+                        <option value="http://oisa.mcmaster.ca/">Work/Study Abroad</option>
+                        <option value="http://www.workingatmcmaster.ca/" >Working@McMaster</option>
+                    </select>
+                    <input type="image" name="qlsubmit" src="https://www.mcmaster.ca/GlobalTemplates/images/go.gif" onclick="jumpMenu();" alt="GO" />
+                </form>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </div>
+            <!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/search_box.lbi" -->
+            <div id="search_container">
+                <form id="searchbox" name="search_form" action="http://www.mcmaster.ca/opr/html/mcmaster_home/main/search_results.html">
+                    <div id="searchbox_input">
+                        <input type="hidden" name="cx" value="017110053273856412988:akq6v26t6nm" />
+                        <label for="q">Search</label>
+                        <input name="q" id="q" type="text" class="searchbox_text" />
+                        <input type="image" name="sa" src="https://www.mcmaster.ca/GlobalTemplates/images/go.gif" alt="GO" />
+                        <input type="hidden" name="cof" value="FORID:11" />
+                    </div>
+                    <div id="searchbox_area_container">
+                        <fieldset id="searchbox_area">
+                            <legend>Scope of Search</legend>
+                            <input id="searchbox_area1" type="radio"  name="hq" value="inurl:mcmaster.ca" />
+                            <label id="searchbox_area1_label" for="searchbox_area1">McMaster</label>
+                            <input id="searchbox_area2" type="radio"  name="hq" value="inurl:housing.mcmaster.ca" checked="checked" />
+                            <label id="searchbox_area2_label" for="searchbox_area2">Housing &amp; Conf. Services</label>
+                        </fieldset>
+                    </div>
+                </form>
+            </div>
+            <!-- #EndLibraryItem --></div>
+        </div>
+        
+        <!-- skip to navigation target anchor to be placed before the main navigation links for the website  -->
+        <!-- If you use the top navigation as the navigation for your website instead of the McMaster global navigation bar, 
+        then you should uncomment the skipnavtargetholder paragraph that follows and comment out the same link in the left_nav.lbi library file  -->
+		<!--<script type="text/javascript" src="http://fhs.mcmaster.ca/lib/javascript/wai_aria_top_nav_anchor.js"></script>--><!-- #BeginLibraryItem "/Library/top_nav.lbi" -->
+		<!-- AJAX version of the McMaster global navigation bar -->
+		        <div id="menuwrap">
+			            <!--[if lte IE 6]><div class='menu'><![endif]-->
+            <div id="top_navigation_bar">
+				<nav id="access" role="navigation">
+										<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+					<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+										<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-57783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57783"><a href="https://macoffcampus.mcmaster.ca/">Home</a></li>
+<li id="menu-item-57782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57782"><a href="https://macoffcampus.mcmaster.ca/classifieds/my-ads/">My Ads</a></li>
+<li id="menu-item-57781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57781"><a href="https://macoffcampus.mcmaster.ca/classifieds/">Search</a></li>
+<li id="menu-item-57787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57787"><a href="https://macoffcampus.mcmaster.ca/classifieds/?cat=0&#038;ocrc_plan_style=featured">Featured Ads</a></li>
+<li id="menu-item-57784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57784"><a href="https://macoffcampus.mcmaster.ca/classifieds/?cat=0">Latest Ads</a></li>
+<li id="menu-item-57780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57780"><a href="https://macoffcampus.mcmaster.ca/classifieds/my-favourites/">Favourites</a></li>
+<li id="menu-item-57785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57785"><a href="https://macoffcampus.mcmaster.ca/classifieds/create/">Place an Ad</a></li>
+<li id="menu-item-57786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57786"><a href="https://macoffcampus.mcmaster.ca/classifieds/login/">Login</a></li>
+</ul></div>				</nav><!-- #access -->
+				
+			</div>
+			
+            <!--[if lte IE 6]></div><![endif]-->
+        </div> 
+		<!-- #EndLibraryItem --><!--<script type="text/javascript" src="http://fhs.mcmaster.ca/lib/javascript/top_nav_ajax.js"></script> -->
+    </div>
+</div>
+	
+<div id="page" class="hfeed">
+	
+	<header id="branding" role="banner">
+					
+			
+			
+										
+			
+	</header><!-- #branding -->
+
+		
+	<div id="main">
+
+		<section id="primary">
+			<div id="content" role="main">
+
+			
+				<header class="page-header">
+					<h1 class="page-title"><span>Student Rentals</span></h1>
+
+					<div class="category-archive-meta"><p>Accommodations suited to all McMaster Students.</p>
+</div>                    <div class="ocrc-ads-found">51 ads found</div>
+				</header>
+
+				    <nav id="nav-above">
+        <h3 class="assistive-text">Post navigation</h3>
+        <div class="nav-next"><a href="https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/page/2/?s&#038;price_from&#038;price_to&#038;zone=1&#038;spaces_from&#038;spaces_to&#038;occupancy_select=10&#038;bedrooms_from&#038;bedrooms_to&#038;internet=0&#038;furnished=0" ><span class="btn">Next 20 Ads <span class="meta-nav">&rarr;</span></span></a></div>
+        <div class="nav-previous"></div>
+    </nav><!-- #nav-above -->
+    				<div id="ocrc-browse-tabs">
+					<div id="tab-container">
+						<div id="list-view" class="selected">List View</div>
+						<div id="map-view">Map View</div>
+					</div>
+					
+					<div id="list-tab">
+					
+											
+                        <h2>Featured Ads</h2>
+
+                        
+	<article id="post-82586" class="post-82586 post type-post status-publish format-standard hentry category-bedrooms-in-a-student-house plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/67-bowman-street-2/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/67-bowman-street-2/">
+                            67 Bowman Street<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $300                                                <br />
+                                                    <span>Bedrooms:</span> 9 of 9                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/67-bowman-street-2/">
+                                                                            <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/noimage.png" style="width: 150px; height: 150px;" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82586" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82586" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82586 -->
+
+	<article id="post-82258" class="post-82258 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/53-sterling/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/53-sterling/">
+                            53 Sterling<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $425                                                <br />
+                                                    <span>Bedrooms:</span> 6 of 6                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/53-sterling/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/06/d3466785b4df6dc76daf95e303ea717aalles1.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Utilities paid separately</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82258" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82258" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82258 -->
+
+	<article id="post-71003" class="post-71003 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/4-forsyth-avenue-north/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/4-forsyth-avenue-north/">
+                            4 Forsyth Avenue North<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $550                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 6                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/4-forsyth-avenue-north/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2013/02/crop-baed9665990eab71c3f5dd2da86d39e11361943731-150x150.png" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Utilities paid separately</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-71003" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-71003" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-71003 -->
+						
+												<h4><a href="https://macoffcampus.mcmaster.ca/classifieds?ocrc_plan_style=featured">View all featured ads</a></h4>
+										
+
+										<h2>Ads</h2>
+						
+						
+	<article id="post-36286" class="post-36286 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/100-merna-ave/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/100-merna-ave/">
+                            100 Merna Ave.<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $395                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 6                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/100-merna-ave/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2013/01/e8d5c982ae38eaf6e7e90ebe38fe4ee7all-tooct26,2010479-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-36286" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-36286" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-36286 -->
+	
+						
+						
+	<article id="post-82757" class="post-82757 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/93-glenmount-avenue-4/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/93-glenmount-avenue-4/">
+                            93 Glenmount Avenue<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $475                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 5                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/93-glenmount-avenue-4/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/07/216e1ce8600046ddad8930a541ae1ad393glenmount-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82757" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82757" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82757 -->
+	
+						
+						
+	<article id="post-71003" class="post-71003 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/4-forsyth-avenue-north/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/4-forsyth-avenue-north/">
+                            4 Forsyth Avenue North<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $550                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 6                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/4-forsyth-avenue-north/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2013/02/crop-baed9665990eab71c3f5dd2da86d39e11361943731-150x150.png" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Utilities paid separately</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-71003" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-71003" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-71003 -->
+	
+						
+						
+	<article id="post-23841" class="post-23841 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/86-south-oval-westdale-village-2/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/86-south-oval-westdale-village-2/">
+                            86 South Oval &#8211; Westdale Village<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $450                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 7                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/86-south-oval-westdale-village-2/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2012/11/23326_2012031609-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Utilities paid separately</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-23841" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-23841" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-23841 -->
+	
+						
+						
+	<article id="post-82392" class="post-82392 post type-post status-publish format-standard hentry category-bedrooms-in-a-student-house plan-basic">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/1084-main-street-west/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/1084-main-street-west/">
+                            1084 Main Street West<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $550                                                <br />
+                                                    <span>Bedrooms:</span> 5 of 5                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/1084-main-street-west/">
+                                                                            <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/noimage.png" style="width: 150px; height: 150px;" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Cable/Sat TV, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                                <div class="website">
+                                    <strong>Website:</strong> <a class="website_link" target="_blank" href="http://www.mainmacres.com">www.mainmacres.com</a>                                </div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82392" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82392" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82392 -->
+	
+						
+						
+	<article id="post-71699" class="post-71699 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/167-emerson-st/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/167-emerson-st/">
+                            167 Emerson St<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                   $300 - $400                                                <br />
+                                                    <span>Bedrooms:</span> 6 of 9                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/167-emerson-st/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2013/03/3e8c7d98758d63eaece5bffe3bb3611fimg_1203-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                                <div class="website">
+                                    <strong>Website:</strong> <a class="website_link" target="_blank" href="http://www.mac-emersonrental.com">http://www.mac-emersonrental.com</a>                                </div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-71699" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-71699" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-71699 -->
+	
+						
+						
+	<article id="post-82201" class="post-82201 post type-post status-publish format-standard has-post-thumbnail hentry category-student-lowrise-apartments plan-basic">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/119-south-oval/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student Lowrise Apartments</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/119-south-oval/">
+                            119 south oval<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                   $2250 - $2270                                                <br />
+                                                    <span>Bedrooms:</span> 6 of 6                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/119-south-oval/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/06/crop-258453b8e4ff9c995b299c9588af1aa21403237925-150x150.png" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Utilities paid separately</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82201" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82201" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82201 -->
+	
+						
+						
+	<article id="post-17956" class="post-17956 post type-post status-publish format-standard has-post-thumbnail hentry category-student-apartments-in-a-house plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/74-rifle-range-rd/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student Apartments in a House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/74-rifle-range-rd/">
+                            74 Rifle Range Rd<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $450                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 3                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/74-rifle-range-rd/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2012/10/23718_2012061557-150x150.gif" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Cable/Sat TV, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-17956" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-17956" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-17956 -->
+	
+						
+						
+	<article id="post-78806" class="post-78806 post type-post status-publish format-standard has-post-thumbnail hentry category-student-house-full-house-available plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/7-norfolk-st-n-2/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student House (Full House Available)</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/7-norfolk-st-n-2/">
+                            7 Norfolk St. N<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $390                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 5                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/7-norfolk-st-n-2/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/02/4aa6cfa167f33824740ef694ae6029ddimage021_21a-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Utilities paid separately</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-78806" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-78806" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-78806 -->
+	
+						
+						
+	<article id="post-29903" class="post-29903 post type-post status-publish format-standard has-post-thumbnail hentry category-student-lowrise-apartments plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/784-king-str-w-12-and-3-bdrms/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student Lowrise Apartments</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/784-king-str-w-12-and-3-bdrms/">
+                            784 King Str. W. (1,2 and 3 bdrms)<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $860                                                <br />
+                                                    <span>Bedrooms:</span> 2 of 2                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/784-king-str-w-12-and-3-bdrms/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2012/12/22929_2011091002-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Water, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                                <div class="website">
+                                    <strong>Website:</strong> <a class="website_link" target="_blank" href="http://www.winkproperties.ca">www.winkproperties.ca</a>                                </div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-29903" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-29903" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-29903 -->
+	
+						
+						
+	<article id="post-876" class="post-876 post type-post status-publish format-standard has-post-thumbnail hentry category-student-highrise-apartments plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/1964-main-street-west-4/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student Highrise Apartments</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/1964-main-street-west-4/">
+                            1964 Main Street West<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $1350                                                <br />
+                                                    <span>Bedrooms:</span> 3 of 3                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/1964-main-street-west-4/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2012/08/14128_20070823121-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-876" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-876" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-876 -->
+	
+						
+						
+	<article id="post-82487" class="post-82487 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-featured">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/151-sterling-street/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/151-sterling-street/">
+                            151 Sterling Street<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                   $400 - $530                                                <br />
+                                                    <span>Bedrooms:</span> 4 of 7                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/151-sterling-street/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/07/b987ffc9ff61768b2362cc435a25eb60photo2014-06-26,51821pm-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82487" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82487" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82487 -->
+	
+						
+						
+	<article id="post-79922" class="post-79922 post type-post status-publish format-standard hentry category-bedrooms-in-a-student-house plan-basic">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/30-norfolk-street-north-hamilton-on-l8s-3k1-2/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/30-norfolk-street-north-hamilton-on-l8s-3k1-2/">
+                            30 Norfolk Street North, Hamilton ON L8S 3K1<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $350                                                <br />
+                                                    <span>Bedrooms:</span> 3 of 7                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/30-norfolk-street-north-hamilton-on-l8s-3k1-2/">
+                                                                            <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/noimage.png" style="width: 150px; height: 150px;" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-79922" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-79922" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-79922 -->
+	
+						
+						
+	<article id="post-82679" class="post-82679 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-basic">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/19-arkell-street-3/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/19-arkell-street-3/">
+                            19 Arkell Street<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                   $425 - $450                                                <br />
+                                                    <span>Bedrooms:</span> 5 of 6                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/19-arkell-street-3/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/07/2a320e0feb44c1340a23c9019f8b48a0h3133521_101_12-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82679" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82679" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82679 -->
+	
+						
+						
+	<article id="post-81119" class="post-81119 post type-post status-publish format-standard has-post-thumbnail hentry category-student-house-full-house-available plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/247-emerson-street-3/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student House (Full House Available)</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/247-emerson-street-3/">
+                            247 Emerson Street<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                   $400 - $2000                                                <br />
+                                                    <span>Bedrooms:</span> 5 of 5                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/247-emerson-street-3/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/07/3cdafb396d153ca27fec0ef7b5ce1867img_3340-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-81119" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-81119" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-81119 -->
+	
+						
+						
+	<article id="post-82663" class="post-82663 post type-post status-publish format-standard has-post-thumbnail hentry category-student-apartments-in-a-house plan-basic">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/7-westbourne-2/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student Apartments in a House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/7-westbourne-2/">
+                            7 Westbourne<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $425                                                <br />
+                                                    <span>Bedrooms:</span> 1 of 8                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/7-westbourne-2/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/07/19b4d5ed7de1ecab198096950e1d312dwp_20140704_003-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82663" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82663" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82663 -->
+	
+						
+						
+	<article id="post-942" class="post-942 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-student-house plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/158-arkell-st/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Student House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/158-arkell-st/">
+                            158 Arkell St<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $375                                                <br />
+                                                    <span>Bedrooms:</span> 2 of 8                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/158-arkell-st/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2012/07/15029_2007080923-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Cable/Sat TV, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-942" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-942" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-942 -->
+	
+						
+						
+	<article id="post-79173" class="post-79173 post type-post status-publish format-standard has-post-thumbnail hentry category-student-apartments-in-a-house plan-basic">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/103-norwood-rd-great-area-beside-park-2/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student Apartments in a House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/103-norwood-rd-great-area-beside-park-2/">
+                            103 Norwood Rd &#8211; great area beside park<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $400                                                <br />
+                                                    <span>Bedrooms:</span> 2 of 2                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/103-norwood-rd-great-area-beside-park-2/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/02/71e9952499e1ed001a0fdaf58d0651caloweraptpic[1]-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-79173" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-79173" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-79173 -->
+	
+						
+						
+	<article id="post-82645" class="post-82645 post type-post status-publish format-standard has-post-thumbnail hentry category-student-apartments-in-a-house plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/9-beaucourt-place-hamilton-ont-l8s-2p8/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Student Apartments in a House</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/9-beaucourt-place-hamilton-ont-l8s-2p8/">
+                            9 BEAUCOURT PLACE, HAMILTON, ONT. L8S 2P8<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                    $600                                                <br />
+                                                    <span>Bedrooms:</span> 3 of 3                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/9-beaucourt-place-hamilton-ont-l8s-2p8/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2014/07/687453066f35ea4972a8f192af3d694cfront-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Cable/Sat TV, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Parking, Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-82645" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-82645" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-82645 -->
+	
+						
+						
+	<article id="post-41076" class="post-41076 post type-post status-publish format-standard has-post-thumbnail hentry category-bedrooms-in-a-landlords-accommodation plan-bold">
+		<table class="post_table" rel="https://macoffcampus.mcmaster.ca/classifieds/147-ewen-rd/">
+			<tr>
+				<td class="ocrc_title" colspan="2">
+                    <div class="category"><span>Category:</span> Bedroom(s) in a Landlords Accommodation</div>
+                    <div class="address">
+                        <a href="https://macoffcampus.mcmaster.ca/classifieds/147-ewen-rd/">
+                            147 Ewen Rd<br />Hamilton, Zone 1                        </a>
+                    </div>
+                    <div class="rent"><span class="rent">Rent:</span>
+                                                   $380 - $385                                                <br />
+                                                    <span>Bedrooms:</span> 3 of 4                                            </div>
+                </td>
+			</tr>
+			<tr>
+				<td>
+					<table>
+						<tr>
+							<td class="image">
+                                <a href="https://macoffcampus.mcmaster.ca/classifieds/147-ewen-rd/">
+                                                                                                                    <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/uploads/2012/12/22720_2011071638-150x150.jpg" />
+                                                                    </a>
+							</td>
+							<td class="details">
+                                <div class="included"><span>Included:</span> Heat, Water, Electricity, Hot Water Heater Rental</div>
+                                <div class="amenities"><span>Amenities:</span> Laundry Facility, A/C</div>
+                                <div class="occupancy"><span>Occupancy Date:</span> Sept 1st</div>
+                                                                <div class="website">
+                                    <strong>Website:</strong> <a class="website_link" target="_blank" href="http://www.artandframingburlington.com">www.artandframingburlington.com</a>                                </div>
+                                                            </td>
+													</tr>
+					</table>
+				</td>
+                <td class="add-favourite add-fav-41076" style=""><span>+ add to favourites</span></td>
+                <td class="remove-favourite remove-fav-41076" style="display: none;"><span>remove from favourites</span></td>
+            </tr>		
+		</table>	
+		<footer class="entry-meta">
+							</footer><!-- #entry-meta -->
+	
+	</article><!-- #post-41076 -->
+	
+						
+					    <nav id="nav-below">
+        <h3 class="assistive-text">Post navigation</h3>
+        <div class="nav-next"><a href="https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/page/2/?s&#038;price_from&#038;price_to&#038;zone=1&#038;spaces_from&#038;spaces_to&#038;occupancy_select=10&#038;bedrooms_from&#038;bedrooms_to&#038;internet=0&#038;furnished=0" ><span class="btn">Next 20 Ads <span class="meta-nav">&rarr;</span></span></a></div>
+        <div class="nav-previous"></div>
+    </nav><!-- #nav-above -->
+    	
+					</div>
+					
+					<div id="map-tab">
+						<article id="post-244" class="post-244 page type-page status-publish hentry">
+							<div id="loading_div_wrapper" style="height: 30px;">
+								<div id="loading_div" style="display:none;"><h2 id="loading_msg">Please wait...</h2></div>
+							</div>
+                            <div>
+                                <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/markers/mcmaster.png" /> McMaster University
+                                <img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/markers/featured.png" /> Featured Ad
+                                <img style="margin-left: 10px;" src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/starwb.png" /> Add to Favourites
+                            </div>
+							<div id="ocrc_map_canvas" style="width: 600px; height: 500px;"></div>
+						</article>
+					</div>
+				</div>
+				
+			
+			</div><!-- #content -->
+		</section><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<h1>
+                Refine Search
+                <br />
+                (choose sub-category)
+            </h1>
+			<form method="get" id="ocrc_refine_search_form" action="https://macoffcampus.mcmaster.ca/classifieds/"> 
+				<div id="category-all">
+					<select name='cat' id='cat' class='postform' >
+	<option value='0'>View all categories</option>
+	<option class="level-0" value="6">GRAD/FACULTY/STAFF RENTALS&nbsp;&nbsp;(71)</option>
+	<option class="level-1" value="21">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Condos&nbsp;&nbsp;(5)</option>
+	<option class="level-1" value="17">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff Apartments&nbsp;&nbsp;(27)</option>
+	<option class="level-2" value="18">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff Apartments in a House&nbsp;&nbsp;(16)</option>
+	<option class="level-2" value="19">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff Highrise Apartments&nbsp;&nbsp;(2)</option>
+	<option class="level-2" value="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff Lowrise Apartments&nbsp;&nbsp;(9)</option>
+	<option class="level-1" value="16">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff Houses&nbsp;&nbsp;(22)</option>
+	<option class="level-2" value="27">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff House&nbsp;&nbsp;(20)</option>
+	<option class="level-2" value="22">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff Townhouses&nbsp;&nbsp;(2)</option>
+	<option class="level-1" value="23">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grad/Faculty/Staff Shared Accommodations&nbsp;&nbsp;(17)</option>
+	<option class="level-2" value="26">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bedroom(s) in a Grad/Faculty/Staff Apartment&nbsp;&nbsp;(2)</option>
+	<option class="level-2" value="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bedroom(s) in a Grad/Staff/Faculty House&nbsp;&nbsp;(5)</option>
+	<option class="level-2" value="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bedroom(s) in a Landlord&#8217;s Accommodation&nbsp;&nbsp;(9)</option>
+	<option class="level-2" value="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Room and Board for Grad/Faculty/Staff&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="3" selected="selected">STUDENT RENTALS&nbsp;&nbsp;(181)</option>
+	<option class="level-1" value="7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shared Student Accommodations&nbsp;&nbsp;(115)</option>
+	<option class="level-2" value="10">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bedroom(s) in a Landlords Accommodation&nbsp;&nbsp;(8)</option>
+	<option class="level-2" value="9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bedroom(s) in a Student Apartment&nbsp;&nbsp;(10)</option>
+	<option class="level-2" value="8">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bedroom(s) in a Student House&nbsp;&nbsp;(97)</option>
+	<option class="level-1" value="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Apartments&nbsp;&nbsp;(43)</option>
+	<option class="level-2" value="14">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Above a Store Student Apartments&nbsp;&nbsp;(2)</option>
+	<option class="level-2" value="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Apartments in a House&nbsp;&nbsp;(15)</option>
+	<option class="level-2" value="34">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Bachelor Apartments&nbsp;&nbsp;(1)</option>
+	<option class="level-2" value="11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Highrise Apartments&nbsp;&nbsp;(9)</option>
+	<option class="level-2" value="12">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Lowrise Apartments&nbsp;&nbsp;(16)</option>
+	<option class="level-1" value="15">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student House (Full House Available)&nbsp;&nbsp;(23)</option>
+	<option class="level-0" value="28">SUBLETS AND SHORT-TERM RENTALS&nbsp;&nbsp;(12)</option>
+	<option class="level-1" value="32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Co-op/Short Term Rentals&nbsp;&nbsp;(7)</option>
+	<option class="level-1" value="29">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer Sublets(May-Aug)&nbsp;&nbsp;(5)</option>
+</select>
+				</div>
+				
+				<div>
+					<input type="text" value="" name="s" id="s" placeholder="Search" />
+				</div>
+				
+				<div id="search-rent" class="search-minmax">
+					<h2>Rent Amount ($)</h2>
+					<span>min</span> <input type="text" name="price_from" value="" />
+					<span>max</span> <input type="text" name="price_to" value="" />
+				</div>
+				
+				<div id="search-zone" class="search-dropdown">
+					<h2>Zone</h2>
+						<select name="zone">
+				            		    <option value="0"></option>
+		            		    <option value="1" SELECTED>Zone 1 (walk to campus)</option>
+		            		    <option value="2">Zone 2 (downtown - south)</option>
+		            		    <option value="3">Zone 3 (downtown - north)</option>
+		            		    <option value="4">Zone 4 (Dundas)</option>
+		            		    <option value="5">Zone 5 (Ancaster)</option>
+		            		    <option value="6">Zone 6 (North-east Hamilton)</option>
+		            		    <option value="7">Zone 7 (South-east Hamilton)</option>
+		            		    <option value="8">Zone 8 (Hamilton Mountain)</option>
+		            		    <option value="9">Zone 9 (Aldershot & Waterdown)</option>
+		            		    <option value="10">Zone 10 (Burlington - east)</option>
+		            		    <option value="11">Zone 11 (Burlington - west)</option>
+		            		    <option value="12">Zone 12 (Everywhere else)</option>
+			</select>
+				</div>
+
+                <div class="search-minmax">
+                    <h2>Number of Bedrooms for Rent</h2>
+                    <span>min</span> <input type="text" name="spaces_from" value="" />
+                    <span>max</span> <input type="text" name="spaces_to" value="" />
+                </div>
+
+                <div id="search-occupancy" class="search-dropdown">
+                    <h2>Occupancy Date</h2>
+                    	<select name="occupancy_select">
+				            		    <option value="0"></option>
+		            		    <option value="1">Available Now</option>
+		            		    <option value="2">Jan</option>
+		            		    <option value="3">Feb</option>
+		            		    <option value="4">March</option>
+		            		    <option value="5">April</option>
+		            		    <option value="6">May</option>
+		            		    <option value="7">June</option>
+		            		    <option value="8">July</option>
+		            		    <option value="9">Aug</option>
+		            		    <option value="10" SELECTED>Sept</option>
+		            		    <option value="11">Oct</option>
+		            		    <option value="12">Nov</option>
+		            		    <option value="13">Dec</option>
+			</select>
+                </div>
+
+				<div>
+					<input class="btn light ocrc_search_update_button" type="submit" value="Search" />
+				</div>
+				
+                <div id="search-advanced-show">
+                    <a href="#" class="btn">More Search Options</a>
+                </div>
+                
+                <div id="search-advanced">
+                    <div class="search-minmax">
+                        <h2>Number of Bedrooms in House/Apartment</h2>
+                        <span>min</span> <input type="text" name="bedrooms_from" value="" />
+                        <span>max</span> <input type="text" name="bedrooms_to" value="" />
+                    </div>
+
+                    <div>
+                        <input class="btn light ocrc_search_update_button" type="submit" value="Search" />
+                    </div>
+                    
+                    <div class="search-checkboxes">
+                        <h2>Utilities Included in Rent</h2>
+                        
+                        <ul>
+                                                            <li><input type="checkbox" name="inc_heat" id="search_inc_heat" value="1"  /> <label for="search_inc_heat">Heat</label></li>
+                                                            <li><input type="checkbox" name="inc_water" id="search_inc_water" value="1"  /> <label for="search_inc_water">Water</label></li>
+                                                            <li><input type="checkbox" name="inc_electric" id="search_inc_electric" value="1"  /> <label for="search_inc_electric">Electricity</label></li>
+                                                            <li><input type="checkbox" name="inc_cable" id="search_inc_cable" value="1"  /> <label for="search_inc_cable">Cable/Sat TV</label></li>
+                                                            <li><input type="checkbox" name="inc_hot_water_heater" id="search_inc_hot_water_heater" value="1"  /> <label for="search_inc_hot_water_heater">Hot Water Heater Rental</label></li>
+                                                    </ul>
+                    </div>
+    
+                    <div class="search-checkboxes">
+                        <h2>Amenities</h2>
+                        
+                        <ul>
+                                                            <li><input type="checkbox" name="inc_parking" id="search_inc_parking" value="1"  /> <label for="search_inc_parking">Parking</label></li>
+                                                            <li><input type="checkbox" name="inc_laundry" id="search_inc_laundry" value="1"  /> <label for="search_inc_laundry">Laundry Facility</label></li>
+                                                            <li><input type="checkbox" name="inc_ac" id="search_inc_ac" value="1"  /> <label for="search_inc_ac">A/C</label></li>
+                                                    </ul>
+                    </div>
+                    
+                    <div id="search-internet" class="search-dropdown">
+                        <h2>Internet</h2>
+                        	<select name="internet">
+				            		    <option value="0" SELECTED></option>
+		            		    <option value="1">High Speed Wireless Included in rent</option>
+		            		    <option value="2">High Speed Hardwired Included</option>
+		            		    <option value="3">Not available</option>
+		            		    <option value="4">Not included in rent</option>
+			</select>
+                    </div>
+    
+                    <div id="search-furnished" class="search-dropdown">
+                        <h2>Furnished</h2>
+                        	<select name="furnished">
+				            		    <option value="0" SELECTED></option>
+		            		    <option value="1">furnished</option>
+		            		    <option value="2">unfurnished</option>
+		            		    <option value="3">can furnish</option>
+		            		    <option value="5">partially furnished</option>
+		            		    <option value="4">bedroom furnished</option>
+		            		    <option value="6">bedroom unfurnished/common areas furnished</option>
+			</select>
+                    </div>
+                    
+                    <div>
+                        <input class="btn light ocrc_search_update_button" type="submit" value="Search" />
+                    </div>
+                </div>
+			</form>
+		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+        
+			<div id="site-generator">
+                <a href="https://macoffcampus.mcmaster.ca/classifieds/terms">Terms of Use</a> | <a href="https://macoffcampus.mcmaster.ca/classifieds/about-us">About Us</a> | <a href="https://macoffcampus.mcmaster.ca/classifieds/help">Help</a><br />
+
+                                    <a href="https://www.entrust.net/customer/profile.cfm?domain=macoffcampus.mcmaster.ca" target="_blank"><img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/SSL-certificate-seal.gif" border="0" alt="SSL, SSL Certificates, Secure Sockets Layer"></a>
+                
+                                <a href="http://bhconsulting.ca/"><img src="https://macoffcampus.mcmaster.ca/classifieds/wp-content/themes/ocrc/images/bh_logo.jpeg" alt="Brian Hogg Consulting" border="0"></a>
+			</div>
+            			</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<div id="map" class="geolocation-map" style="width:300px;height:150px;"></div><!-- Lightbox Plus v2.3 - 2011.08.11 - Message: -->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({opacity:0.8});
+});
+</script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-content/plugins/lightbox-plus/js/jquery.colorbox-min.js?ver=1.3.17.2'></script>
+<script type='text/javascript' src='https://macoffcampus.mcmaster.ca/classifieds/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201429'></script>
+
+	<script src="https://stats.wordpress.com/e-201429.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:1.8.2',blog:'38119864',post:'0'});
+	var load_cmc = function(){linktracker_init(38119864,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</body>
+</html>
