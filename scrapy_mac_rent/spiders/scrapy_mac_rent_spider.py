@@ -5,6 +5,7 @@ from pygeocoder import Geocoder
 from math import sin, cos, sqrt, atan2, radians
 
 class ScrapyMacRentSpider(scrapy.Spider):
+    gmaps = None
     name = "macrent"
     shouldUseGoogleMaps = True
     api_key = ""
@@ -18,11 +19,11 @@ class ScrapyMacRentSpider(scrapy.Spider):
 
     def __init__(self):
         print("Initializing...")
-        if shouldUseGoogleMaps:
+        if self.shouldUseGoogleMaps:
             with open ("maps_api_key.txt", "r") as api_file:
                 api_key = api_file.read()
                 
-            gmaps = Geocoder(api_key=api_key)
+            self.gmaps = Geocoder(api_key=api_key)
     
     def haversine(self, latitude1, longitude1, latitude2, longitude2):
         R = 6373.0
@@ -56,7 +57,7 @@ class ScrapyMacRentSpider(scrapy.Spider):
             item['zone'] = sel.xpath('a/text()')[1].extract().strip()
             item['url'] = sel.xpath('a/@href')[0].extract().strip()
 
-            if shouldUseGoogleMaps:
+            if self.shouldUseGoogleMaps:
                 coords = self.gmaps.geocode(item['address'] + ", Hamilton, ON L8S")[0].coordinates
                 item['latitude'] = coords[0]
                 item['longitude'] = coords[1]
@@ -103,4 +104,4 @@ class ScrapyMacRentSpider(scrapy.Spider):
 
         item['images'] = img_list
 
-        print(item)
+        yield item

@@ -23,7 +23,7 @@ To add urls to scrape, append new elements to the "start_urls" list in the scrap
 ```
 > scrapy crawl macrent -o items.json
 ```
-This command creates an items.json file containing all the scraped listings.
+This command creates an items.json file containing all the scraped listings. Running this command multiple times only appends to the items.json file (doesn't remove what was already in this file).
 
 If you don't want to provide a Google Maps API, toggle "shouldUseGoogleMaps" to False in the scrapy_mac_rent_spider.py file.
 
