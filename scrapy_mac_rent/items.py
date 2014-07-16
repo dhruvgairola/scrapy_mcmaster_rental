@@ -15,7 +15,6 @@ class ScrapyMacRentItem(scrapy.Item):
     zone = scrapy.Field()
     lease = scrapy.Field()
     rent_amt = scrapy.Field()
-    contact = scrapy.Field()
     dist = scrapy.Field()
     dirn = scrapy.Field()
     latitude = scrapy.Field()
