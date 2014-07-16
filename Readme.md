@@ -21,9 +21,12 @@ You will need Python 2.7, pip, and a Google Maps API key.
 
 To add urls to scrape, append new elements to the "start_urls" list in the scrapy_mac_rent_spider.py file. To scrape rentals, run this command from the top level directory.
 ```
+> scrapy crawl macrent -o items.csv
+```
+This command creates an items.csv file containing all the scraped listings. Running this command multiple times only appends to the items.csv file (doesn't remove what was already in this file). Once you have the csv, you can load it into Excel or OpenOffice to sort on whichever columns you want. If you want to filter/query the dataset, you can load the csv file into Python/R/Matlab/etc. If you want a json file, change the command to :
+```
 > scrapy crawl macrent -o items.json
 ```
-This command creates an items.json file containing all the scraped listings. Running this command multiple times only appends to the items.json file (doesn't remove what was already in this file).
 
 If you don't want to provide a Google Maps API, toggle "shouldUseGoogleMaps" to False in the scrapy_mac_rent_spider.py file.
 
