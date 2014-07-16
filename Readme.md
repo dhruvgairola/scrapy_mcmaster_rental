@@ -29,4 +29,4 @@ If you don't want to provide a Google Maps API, toggle "shouldUseGoogleMaps" to 
 
 #### Disclaimer :
 
-Please use this program responsibly.
+Please use this program responsibly. Scraping code was tested working as of July 2014. Any changes on the website being scraped would necessarily require modifications to the scraping logic.
