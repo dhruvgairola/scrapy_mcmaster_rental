@@ -14,7 +14,6 @@ class ScrapyMacRentItem(scrapy.Item):
     url = scrapy.Field()
     zone = scrapy.Field()
     lease = scrapy.Field()
-    rooms_avail = scrapy.Field()
     rent_amt = scrapy.Field()
     contact = scrapy.Field()
     dist = scrapy.Field()
