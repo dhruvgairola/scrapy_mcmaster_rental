@@ -6,6 +6,7 @@ from math import sin, cos, sqrt, atan2, radians
 
 class ScrapyMacRentSpider(scrapy.Spider):
     name = "macrent"
+    shouldUseGoogleMaps = True
     api_key = ""
     allowed_domains = ["macoffcampus.mcmaster.ca"]
     start_urls = [
@@ -17,10 +18,11 @@ class ScrapyMacRentSpider(scrapy.Spider):
 
     def __init__(self):
         print("Initializing...")
-        with open ("maps_api_key.txt", "r") as api_file:
-            api_key = api_file.read()
-            
-        gmaps = Geocoder(api_key=api_key)
+        if shouldUseGoogleMaps:
+            with open ("maps_api_key.txt", "r") as api_file:
+                api_key = api_file.read()
+                
+            gmaps = Geocoder(api_key=api_key)
     
     def haversine(self, latitude1, longitude1, latitude2, longitude2):
         R = 6373.0
@@ -53,11 +55,13 @@ class ScrapyMacRentSpider(scrapy.Spider):
             item['address'] = sel.xpath('a/text()')[0].extract().strip()
             item['zone'] = sel.xpath('a/text()')[1].extract().strip()
             item['url'] = sel.xpath('a/@href')[0].extract().strip()
-            # coords = self.gmaps.geocode(item['address'] + ", Hamilton, ON L8S")[0].coordinates
-            # item['latitude'] = coords[0]
-            # item['longitude'] = coords[1]
-            # item['dist'] = self.haversine(43.25792970000001, -79.9181011, coords[0], coords[1])
-            # item['dirn'] = self.dirn(43.2583633, -79.91991700000001, coords[0], coords[1])
+
+            if shouldUseGoogleMaps:
+                coords = self.gmaps.geocode(item['address'] + ", Hamilton, ON L8S")[0].coordinates
+                item['latitude'] = coords[0]
+                item['longitude'] = coords[1]
+                item['dist'] = self.haversine(43.25792970000001, -79.9181011, coords[0], coords[1])
+                item['dirn'] = self.dirn(43.2583633, -79.91991700000001, coords[0], coords[1])
             
             yield Request(item['url'], meta={'item': item}, callback=self.parse_listing) 
 
