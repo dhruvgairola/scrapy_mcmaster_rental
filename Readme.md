@@ -19,7 +19,9 @@ You will need Python 2.7, pip, and a Google Maps API key.
 
 #### Additional configuration :
 
-To add urls to scrape, append new elements to the "start_urls" list in the scrapy_mac_rent_spider.py file. To scrape rentals, run this command from the top level directory.
+To add urls to scrape, append new elements to the "start_urls" list in the scrapy_mac_rent_spider.py file. Go to https://macoffcampus.mcmaster.ca/classifieds/category/student-rentals/ if you want to use McMaster University's filter to initially filter out "Zones". In this repo, I have only considered Zone 1 and set occupancy to September. You can change this of course but remember to add this url as directed above. 
+
+To scrape rentals, run this command from the top level directory.
 ```
 > scrapy crawl macrent -o items.csv
 ```
@@ -28,8 +30,8 @@ This command creates an items.csv file containing all the scraped listings. Runn
 > scrapy crawl macrent -o items.json
 ```
 
-If you don't want to provide a Google Maps API, toggle "shouldUseGoogleMaps" to False in the scrapy_mac_rent_spider.py file.
+If you don't want to provide a Google Maps API, toggle "shouldUseGoogleMaps" to False in the scrapy_mac_rent_spider.py file. Google Maps API is used to get the geolocation of houses, used to calculate the distance of the house from McMaster. Note that Google has a 2,500 free requests limit for geocoding queries per day. Mac listings for Zone 1 are usually < 100, which means you should be able to run the program about 25 times per day if you enable "shouldUseGoogleMaps" in the scrapy_mac_rent_spider.py file.
 
 #### Disclaimer :
 
-Please use this program responsibly. Scraping code was tested working as of July 2014. Any changes on the website being scraped would necessarily require modifications to the scraping logic.
+Please use this program responsibly. Scraping code was tested working as of July 2014, for houses in Zone 1 (not tested with other Zones). Any changes on the website being scraped would necessarily require modifications to the scraping logic.
