@@ -76,7 +76,7 @@ class ScrapyMacRentSpider(scrapy.Spider):
             
             female_keyword = False
             for desc in item['description']:
-                if("female" in desc.lower()):
+                if("female" in desc.lower() or "girl" in desc.lower()):
                     female_keyword = True
             
             item['female_keyword'] = female_keyword
