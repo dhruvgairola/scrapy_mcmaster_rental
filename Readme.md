@@ -10,11 +10,13 @@ You will need Python 2.7, pip, and a Google Maps API key.
 > pip install Scrapy
 > pip install service_identity
 > pip install pygeocoder
-2. Visit the APIs Console at https://code.google.com/apis/console and log in with your Google Account.
-3. Click the APIs link from the left-hand menu.
-4. Activate the Geocoding API service.
-5. Click the Credentials link from the left-hand menu. Your API key is available here.
-6. Add your Google API key to maps_api_key.txt as the first and only line.
+2. If you want to obtain distance information from the house to McMaster: 
+> Visit the APIs Console at https://code.google.com/apis/console and log in with your Google Account.
+> Click the APIs link from the left-hand menu.
+> Activate the Geocoding API service.
+> Click the Credentials link from the left-hand menu. Your API key is available here.
+> Add your Google API key to maps_api_key.txt as the first and only line.
+> Toggle "shouldUseGoogleMaps" to True in the scrapy_mac_rent_spider.py file.
 ```
 
 #### Additional configuration :
