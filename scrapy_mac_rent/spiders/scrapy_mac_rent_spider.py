@@ -7,7 +7,7 @@ from math import sin, cos, sqrt, atan2, radians
 class ScrapyMacRentSpider(scrapy.Spider):
     gmaps = None
     name = "macrent"
-    shouldUseGoogleMaps = True
+    shouldUseGoogleMaps = False
     api_key = ""
     allowed_domains = ["macoffcampus.mcmaster.ca"]
     start_urls = [
