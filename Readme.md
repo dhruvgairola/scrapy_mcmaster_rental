@@ -10,7 +10,7 @@ You will need Python 2.7, pip, and a Google Maps API key.
 > pip install Scrapy
 > pip install service_identity
 > pip install pygeocoder
-2. If you want to obtain distance information from the house to McMaster: 
+2. (Optional) If you want to obtain distance information from the house to McMaster: 
 > Visit the APIs Console at https://code.google.com/apis/console and log in with your Google Account.
 > Click the APIs link from the left-hand menu.
 > Activate the Geocoding API service.
