@@ -1,6 +1,6 @@
-This project is for McMaster University students who are looking to rent rooms via the McMaster offcampus housing website. I personally found that manually going through the ads was a huge drain on my time since I would manually input the address into Google maps to check how far it was from the campus. Also, if a rental search was unsuccessful for that week, you'd probably have to search the listings again, which would keep getting updated, wasting time again. Keywords like "Female house only" meant that males would not be rented a house. Listings on the website can only be sorted according to a few attributes.
+This project is for McMaster University students who are looking to rent rooms via the McMaster offcampus housing website. I personally found that manually going through the ads was a huge drain on my time since I would manually input the address into Google maps to check how far it was from the campus. Also, if a rental search was unsuccessful for that week, you'd probably have to search the listings again, which would keep getting updated, wasting time again. Keywords like "Female house only" meant that males would not be rented a house and you have to filter these out manually. Listings on the website can only be sorted according to a few attributes.
 
-Hence, I decided to scrape the McMaster housing website to collect all the relevant information, filter irrelevant information and sort listings according to what's important.
+Hence, I decided to scrape the McMaster housing website to collect all the relevant information, filter irrelevant information, detect useful keywords from descriptions and sort listings according to what's important.
 
 You will need Python 2.7, pip, and a Google Maps API key.
 
